@@ -44,6 +44,7 @@ console.log('Resultado exercício 1:', sum);
 <br></br>
 
 - Exercício 3
+### Para rodar o projeto rode `yarn install` e após isso `yarn build && yarn run`
 [Documentação Postman](undefined/workspace/desafio-target/collection/23505128-b60130cf-84c7-45c7-b339-a3f51d175716?action=share&creator=23505128&active-environment=23505128-6f5e4977-b4eb-40a3-ad3d-40c0c5a8b352)
 
 <img src="public/images/postmanResult.png">
@@ -78,13 +79,13 @@ WHERE a.state = 'SP';
 + Caso queira acessar o dump desse banco, acesse o arquivo na raiz desse projeto chamado client_dump.sql
 ```
 
-	#### Prints do resultado
-	<img src="public/images/resultSelect.png">
+#### Prints do resultado
+<img src="public/images/resultSelect.png">
 
-	#### Tabela Cliente e Tabela Endereços
-	<img src="public/images/tableClients.png">
+#### Tabela Cliente e Tabela Endereços
+<img src="public/images/tableClients.png">
 
-	<img src="public/images/tableAddresses.png">
+<img src="public/images/tableAddresses.png">
 
 
 
